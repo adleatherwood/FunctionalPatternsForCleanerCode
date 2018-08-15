@@ -20,7 +20,7 @@ namespace Imperative
 
             // MyMethod is the only testable unit here.
             // All of this setup is required for every test.
-            // I can't test the validation logic independantly.
+            // I can't test the validation logic independently.
             
             Assert.AreEqual("Ok", actual);
         }

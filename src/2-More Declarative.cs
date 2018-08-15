@@ -33,7 +33,7 @@ namespace Declarative
             return "Ok";
         } 
 
-        /* This is pure and independantly testable now.  And reusable. */
+        /* This is pure and independently testable now.  And reusable. */
         public static bool ValidateRequest(Request request)
         {
             return !String.IsNullOrWhiteSpace(request.Name) 
