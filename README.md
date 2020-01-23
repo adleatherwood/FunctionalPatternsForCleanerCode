@@ -19,3 +19,4 @@ The code sample is a step-by-step take on Scott Wlaschin's [Railway Oriented Pro
 * Replacing interfaces with functions
 * A version in F# for kicks
 
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
