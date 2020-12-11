@@ -1,6 +1,8 @@
 # Functional Patterns for Cleaner Code
 
-The slide presentation can be found [here](https://drive.google.com/open?id=1cki8fN67q-FsAkbPHMO43VCmsSCmx2ZF1jVFlZ2j5uI).
+View it on [repl.it](https://repl.it/@TonyL1/FunctionalPatternsForCleanerCode#Ch1%20-%20The%20Imperative%20Starting%20Point%20-%20Code.cs)
+
+A related slide presentation can be found [here](https://drive.google.com/open?id=1cki8fN67q-FsAkbPHMO43VCmsSCmx2ZF1jVFlZ2j5uI).
 
 The presentation covers various functional patterns that can be brought into the OOP paradigm with the goal of achieving code that is easier to understand, test, and maintain.  Topics covered:
 
